@@ -1,5 +1,5 @@
 # **premierprojet** #
- = ![image](index.jpeg)
+ ![image](index.jpeg)
 
 ## **Introduction**
 	
