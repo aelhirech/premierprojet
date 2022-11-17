@@ -1,7 +1,5 @@
 # **premierprojet** #
-
-
-![image](index.jpeg)
+ = ![image](index.jpeg)
 
 ## **Introduction**
 	
@@ -26,7 +24,7 @@ Golden View est un projet de [Evil-Golden](Evil_Golden.com) en cours de dévelop
 
 
 ## Communauté
-Golden View est très attendu par l'emseble des utilisateur de Evil-Golden et le projet est suivi de projet par ceux notamment sur le groupe discord(discord/goldenview.com) mis en place
+Golden View est très attendu par l'emseble des utilisateur de Evil-Golden et le projet est suivi de projet par ceux notamment sur le groupe [discord](discord/goldenview.com) mis en place
 ## Contribuer
 Pour contribuer envoyer un message directement aux administrateur sur Discord ou faite une demande de commit
 
