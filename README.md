@@ -13,9 +13,9 @@ Golden View est un projet de [Evil-Golden](Evil_Golden.com) en cours de dévelop
 
 **Linux :** Taper la commande suivante dans votre terminal `sudo apt install Golden View` 
 
-![image](index.pnj)
+![image](index.png)
 
-![image](index2.pnj)
+![image](index2.png)
 
 ## **Outils disponible sur Golden Viewer**
  
